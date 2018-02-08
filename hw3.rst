@@ -1,4 +1,8 @@
-.. _google: (https://www.google.com/)
 
 
-the website name is google_
+the website name is (google_)
+
+
+
+
+.. _Google: https://www.google.com/
